@@ -1,9 +1,8 @@
 ﻿using System;
 
-namespace Fichines.Core
+namespace Fichinx.Core
 {
     public class Fichin
     {
-        
     }
 }
